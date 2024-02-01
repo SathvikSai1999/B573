@@ -5,9 +5,9 @@ Name of the programmer: Sathvik Sai Appagana
 
 Status: Graduate Student
 
-Languages used in B573 repository: 
+## Index page: Languages used in Assignments
 
-Assignment_1: LIINUX/UNIX
+Assignment_1: LINUX/UNIX
 
 Assignment_2: PYTHON (Beginner)
 
