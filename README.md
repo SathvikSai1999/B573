@@ -2,7 +2,9 @@
 
 ## Author
 Name of the programmer: Sathvik Sai Appagana
+
 Status: Graduate Student
+
 Language used in B573 repository: LIINUX/UNIX
 
 ## Purpose of Assignment 1
