@@ -5,7 +5,16 @@ Name of the programmer: Sathvik Sai Appagana
 
 Status: Graduate Student
 
-Language used in B573 repository: LIINUX/UNIX
+Languages used in B573 repository: 
+Assignment_1: LIINUX/UNIX
+
+Assignment_2: PYTHON (Beginner)
+
+Assignment_3: PYTHON (Advanced)
+
+Assignment_4: R (Beginner)
+
+Assignment_5: R (Advanced)
 
 ## Purpose of Assignment 1
 This script is designed to execute the following:
@@ -20,6 +29,6 @@ Append the first 10 lines of each of the chromosome 1 assemblies to “data_summ
 Append the name of assembly as well as the total number of lines included in that assembly to “data_summary.txt”
 
 ## Instructions
-1. **Download the Repository:**
+**Download the Repository:**
    - Clone or download the repository to your local machine.
 
